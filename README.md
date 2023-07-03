@@ -18,9 +18,7 @@ Built with VanillaJS this form has all the required validation to get an authent
 
 
 
-## Live Link
 
-https://loginformvalidate.netlify.app/
 
 
 ## Run Locally
